@@ -13,7 +13,7 @@ for i,v in pairs(game.Players:GetPlayers()) do
     if v.Character and v.Character.Humanoid then
         v.Character.Humanoid.Died:Connect(function()
             if not isantipackwatch(v.Name) then
-                game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH RIP BOZO!! RIP "..v.DisplayName.." you wont be missed! 😹 BOT Developed by Avian for the memes","All")
+                game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH RIP BOZO!! RIP "..v.DisplayName.." you wont be missed! 😹 BOT Developed by Avian 9893 for the memes","All")
             end
         end)
      end
@@ -23,7 +23,7 @@ for i,v in pairs(game.Players:GetPlayers()) do
         if v.Character and v.Character.Humanoid then
             v.Character.Humanoid.Died:Connect(function()
                 if not isantipackwatch(v.Name) then
-                    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH RIP BOZO!! RIP "..v.DisplayName.." you wont be missed! 😹 BOT Developed by Avian for the memes","All")
+                    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH RIP BOZO!! RIP "..v.DisplayName.." you wont be missed! 😹 BOT Developed by Avian 9893 for the memes","All")
                 end
             end)
         end
@@ -46,7 +46,7 @@ game.Players.PlayerAdded:Connect(function(v)
     if v.Character and v.Character.Humanoid then
         v.Character.Humanoid.Died:Connect(function()
             if not isantipackwatch(v.Name) then
-                game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH RIP BOZO!! RIP "..v.DisplayName.." you wont be missed! 😹 BOT Developed by Avian for the memes","All")
+                game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH RIP BOZO!! RIP "..v.DisplayName.." you wont be missed! 😹 BOT Developed by Avian 9893 for the memes","All")
             end
         end)
      end
@@ -56,7 +56,7 @@ game.Players.PlayerAdded:Connect(function(v)
         if v.Character and v.Character.Humanoid then
             v.Character.Humanoid.Died:Connect(function()
                 if not isantipackwatch(v.Name) then
-                    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH RIP BOZO!! RIP "..v.DisplayName.." you wont be missed! 😹 BOT Developed by Avian for the memes","All")
+                    game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH RIP BOZO!! RIP "..v.DisplayName.." you wont be missed! 😹 BOT Developed by Avian 9893 for the memes","All")
                 end
             end)
         end
@@ -74,4 +74,4 @@ game.Players.PlayerAdded:Connect(function(v)
     end)
 end)
 
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH LOADED! When you die, PACKWATCH will tell everyone, to not be included type .antipackwatch | Developed by Avian. Okay lets get watching","All")
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("#PACKWATCH LOADED! When you die, PACKWATCH will tell everyone, to not be included type .antipackwatch | Developed by Avian 9893. Okay lets get watching","All")
